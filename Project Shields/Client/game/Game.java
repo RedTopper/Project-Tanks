@@ -46,6 +46,8 @@ import javax.swing.JFrame;
  * {@link Runnable} {@link Thread} that continues to run until the application
  * is closed.
  *
+ * Hey, I'm now on Git!
+ *
  * @author AJ Walter
  *
  */
