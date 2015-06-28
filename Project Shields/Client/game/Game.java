@@ -56,7 +56,7 @@ public class Game extends Canvas implements Runnable {
 	 * logging on to a server, so update it often to prevent out dated clients
 	 * from connecting.
 	 */
-	public static final String version = "v1.1.0";
+	public static final String version = "v1.1.01";
 	public static final long serialVersionUID = 1L;
 
 	/**
