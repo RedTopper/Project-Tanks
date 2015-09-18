@@ -3,7 +3,7 @@
 	<classpathentry kind="src" path="Client"/>
 	<classpathentry kind="src" path="Resources"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="H:/Tanks/Git/Project Shields/lib/jl1.0.1.jar">
+	<classpathentry kind="lib" path="/home/aaron/git/Project-Tanks/Project Shields/lib/jl1.0.1.jar">
 		<attributes>
 			<attribute name="javadoc_location" value="file:/H:/Tanks/Project%20Shields/lib/doc/"/>
 		</attributes>

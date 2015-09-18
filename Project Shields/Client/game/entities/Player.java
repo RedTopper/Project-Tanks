@@ -534,7 +534,7 @@ public class Player extends Mob {
 				}
 			}
 		}
-		super.debugRender(screen);
+		//super.debugRender(screen);
 	}
 
 	@Override
